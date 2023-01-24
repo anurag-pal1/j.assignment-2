@@ -1,0 +1,39 @@
+Ans 1: Git is a popular version control system(VCS). It was created by Linux Torvalds in 2005 and has been 
+       maintained by Junio Hamano.
+
+Ans 2: Version control, also known as source control, is the practice of tracking and managing changes to software code.
+       Version control systems are software tools that help software teams manage changes to source code over time.
+
+Ans 3: GitHub is a code hosting platform for version control and collaboration.
+       It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials 
+       like repositories, branches, commits, and pull requests.
+
+Ans 4: Some popular Git hosting sevices are Bitbucket, Gitlab, Perforce, ,Codebase,etc.
+
+Ans 5: There are two types version control systems:
+       1.Centralized Version Control System.
+       2.Distributed Version Control System.
+
+       Centralized Version Control System:- Developers can collaborate and do the changes.Example: CVS, Subversion,etc.
+
+       Distributed Version Control System:- Developers doesn't check out the latest snapshot of the files rather they fully
+       mirror the repository including its full history.Example: Git, Mercurial,Darcs,etc.
+
+Ans 6: Benefits comes with using GIT 
+       1.Performance
+       2.Security
+       3.Flexibility
+       4.Wide acceptance
+       5.Quality open source project
+
+Ans 7: A Git repository tracks and saves the history of all changes made to the files in a Git project. 
+       It saves this data in a directory called . git , also known as the repository folder. 
+       Git uses a version control system to track all changes made to the project and save them in the repository.
+
+Ans 8: Steps to initialize a repository in Git are:-
+       1. Create a new repository on GitHub.com. ...
+       2. Open TerminalTerminalGit Bash.
+       3. Change the current working directory to your local project.
+       4. Use the init command to initialize the local directory as a Git repository. ...
+       5. Add the files in your new local repository. ...
+       6. Commit the files that you've staged in your local repository.
